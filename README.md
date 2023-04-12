@@ -33,9 +33,9 @@
 方案一:  容器中跑浏览器进程，但是无法查看下载文件。不满足条件
 			   详细参考：https://juejin.cn/post/7076824881546919950
 
-**方案二**：以ubuntu 22.04为基础镜像，安装TigerVNC Server服务 + xfce4 + 浏览器
+**方案二**： 以ubuntu 22.04为基础镜像，安装TigerVNC Server服务 + xfce4 + 浏览器
 				详细参考：https://blog.csdn.net/lxyoucan/article/details/121679346
-        		详细参考：http://qclog.cn/1335
+				详细参考：http://qclog.cn/1335
 
 #### 2.方案优缺点
 
